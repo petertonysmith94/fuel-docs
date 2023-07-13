@@ -22,7 +22,7 @@ The main features of a smart contract that differentiate it from scripts or pred
 
 A script is runnable bytecode on the chain which can call contracts to perform some task. It does not represent ownership of any resources and it cannot be called by a contract.
 
-See [the chapter on program types](https://fuellabs.github.io/sway/master/sway-program-types/index.html) for more information.
+See [the chapter on program types](https://fuellabs.github.io/sway/master/book/sway-program-types/index.html) for more information.
 
 A few pieces of info that will be helpful before moving on:
 
